@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Calculator-using-useReducer/static/css/main.db8ef1bc.css",
+    "main.js": "/Calculator-using-useReducer/static/js/main.98dec0d4.js",
+    "index.html": "/Calculator-using-useReducer/index.html",
+    "main.db8ef1bc.css.map": "/Calculator-using-useReducer/static/css/main.db8ef1bc.css.map",
+    "main.98dec0d4.js.map": "/Calculator-using-useReducer/static/js/main.98dec0d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db8ef1bc.css",
+    "static/js/main.98dec0d4.js"
+  ]
+}
